@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942261170365",
+    "project_id": "viim-5f673",
+    "storage_bucket": "viim-5f673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942261170365:android:096a8f0b4275e353f287d4",
+        "android_client_info": {
+          "package_name": "com.example.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942261170365-l6981644a53gla59m9762risfca3jjq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDCG-P2gCBID6NttQF3AYLFIJ66Ocp-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942261170365-l6981644a53gla59m9762risfca3jjq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
